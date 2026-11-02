@@ -1,0 +1,25 @@
+{
+    "HIGH_SECURITY": {
+        "description": "User personal data (Emails)",
+        "data": [
+            "rimzino@gmail.com",
+            "imanesahib@gmail.com",
+            "fake.user@bad-domain.net"
+        ]
+    },
+    "LOW_SECURITY": {
+        "description": "Public commercial data (Prices & Brands)",
+        "data": {
+            "prices_list": [
+                "$1200",
+                "$800",
+                "$0"
+            ],
+            "brands_list": [
+                "Dell",
+                "Samsung",
+                "Unknown"
+            ]
+        }
+    }
+}

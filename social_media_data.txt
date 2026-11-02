@@ -1,0 +1,15 @@
+
+    FROM: rimzino@gmail.com
+    MESSAGE: I am looking for a new laptop.
+    Brand: Dell.
+    Price is around $1200.
+    
+    FROM: imanesahib@gmail.com
+    MESSAGE: The new phone is great.
+    Brand: Samsung.
+    I paid $800 for it!
+    
+    SPAM: fake.user@bad-domain.net sent a virus link.
+    Brand: Unknown.
+    Price: $0.
+    
